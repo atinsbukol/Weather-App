@@ -49,3 +49,8 @@ li {
 .search-form {
     margin-bottom: 10px;
 }
+.author {
+    padding: 0;
+    margin: 0 auto;
+    max-width: 600px;
+}
